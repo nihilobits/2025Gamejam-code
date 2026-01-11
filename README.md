@@ -1,4 +1,8 @@
 ### Solo Project: Full-Cycle Development
+
+Game link:
+https://www.roblox.com/games/92697038642247/gamejam
+
 This collection of scripts demonstrates the implementation of core interactive mechanics for a 48-hour Game Jam project. The focus was on delivering a functional Minimum Viable Product (MVP) with high player engagement through environmental storytelling and interactive systems.
 
 
